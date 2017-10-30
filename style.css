@@ -1,0 +1,77 @@
+/*HTML*/
+html {
+			min-width: 1000px;
+}
+/*------------------------------------------------------------------------------------*/
+/*CSS for Links*/
+.nav {
+	padding-bottom: 10px;
+	width:428px;
+	position:relative;
+	left:35%;
+}
+
+ .nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #196dff;
+}
+
+.nav li {
+    float: left;
+}
+
+.nav li a {
+    display: inline-block;
+    font-size: 1em;
+    color: black;
+    text-align: center; 
+    padding: 15px 15px;
+}
+
+.nav li a:hover {
+    background-color: #290f8a;
+}
+/*------------------------------------------------------------------------------------*/
+/*CSS for all three webpages*/
+
+body {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+h1{
+    font-family: "Times New Roman", Times, serif;
+    border-top-style: double;
+	color: #000033;
+}
+
+h2{
+    font-family: "Times New Roman", Times, serif;
+    border-top-style: double;
+	color: #000033;
+}
+
+p{
+    font-family: "Times New Roman", Times, serif;
+	color: #6666ff;
+
+}
+
+ul{
+	color: #6666ff;
+}
+/*------------------------------------------------------------------------------------*/
+/*CSS for Images and videos*/
+img {
+    border-radius: 40px;
+	margin-left: 40px;
+
+}
+iframe{
+	float: left;
+	margin-left: 40px;
+}
+/*------------------------------------------------------------------------------------*/
